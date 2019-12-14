@@ -5,7 +5,7 @@
 | --- | --------- |
 |1  | [What is Angular?](#what-is-angular) |
 |2  | [What is 2 way binding?](#what-is-2-way-binding) |
-|3  | [What is Angular lifecycle hooks?](#what-is-angular-lifecycle-hook) |
+|3  | [What is Angular lifecycle hooks?](#what-is-angular-lifecycle-hooks) |
 
 
     
